@@ -1,8 +1,15 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. Jason Lloyd
+1. What is your name?
+Jason Lloyd
 2. Why are you interested in Data Science?
+I have been a Data Scientist for the last 10 years. I have experience with SQL, worked on statisicall analysis tools, and have either manipulated or managed data.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I mostly use SQL, but have been educated in C cand C++. I also am familiar with XML, and am also familiar with R through other Data Science courses prior to this one.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I have used Minitab in the past to perform statistical analysis, and I have taken (and received an A in) Data Science 705: Statistics. I have been exposed to statistics through Six Sigma projects as well.
 5.  Do you have other experience with R or Python?
+As mentioned above, I have used R in the scope of two prior semesters in Data Science. I am not familiar with Python, but have been exposed to C, C++, Java, and SQL. I have reviewed Python breifly before beginning this class and while it has it's own features (as all languages do), there is very little that is new or unique to Python compared to prior languages I have been exposed to.
 6.  What do you hope to learn in this class?
+I hope to brush up on Object Oriented programming (with Python) and learn more deeply how to use R to automate handling large datasets, and properly analyze them.
 7.  Is there anything else you would like to share with us?
+Not really, the GitHub piece is also a new twist. My feedback based on what I have seen so far might be to spend one week focusing on each language before asking for work from both; as typical for every Data Science class, the first week has a very steep curve (In one week, I had to download and install GitHub, Python, and R, learn how to use all three, and then submit an assignment in all three; the mere download and setup of these took 3 hours. I can only imagine the frustration for anyone who has little programming expierience).
